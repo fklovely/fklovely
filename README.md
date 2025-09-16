@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fklovely&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklovely)](https://github.com/anuraghazra/github-readme-stats)
+![Static Badge](https://img.shields.io/badge/:Java)
