@@ -17,10 +17,15 @@
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="550px" width="128px" style="vertical-align:top; margin:6px 4px"  alt=""/>
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="150px" width="160px" style="vertical-align:top; margin:6px 4px"  alt=""/> 
 </p>
-![Metrics](./metrics.classic.svg)
+
+
+
+
 
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fklovely&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklovely)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github.com/fklovely/fklovely/blob/main/metrics.classic.svg)
