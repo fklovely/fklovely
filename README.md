@@ -35,7 +35,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fklovely&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklovely)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklovely&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github.com/fklovely/fklovely/blob/main/metrics.classic.svg)
 
