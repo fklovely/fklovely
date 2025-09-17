@@ -29,12 +29,11 @@
 
 ## Activities
 
-
-
-
-
+<picture>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=fklovely&show_icons=true&theme=radical" width="400">
 
+</picture>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklovely&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github.com/fklovely/fklovely/blob/main/metrics.classic.svg)
