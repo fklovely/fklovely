@@ -31,6 +31,7 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_lines: yes
           plugin_leetcode: yes
+          plugin_leetcode_credentials: cn
           plugin_leetcode_user: storm-um
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_recent: 2
