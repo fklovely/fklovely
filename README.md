@@ -29,7 +29,7 @@
 
 ## Activities
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fklovely&show_icons=true&theme=transparent" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fklovely&layout=compact" width="510">
 </p>
