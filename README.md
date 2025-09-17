@@ -10,15 +10,24 @@
 
 
 
-## 🛠技术栈
+## 🛠Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,docker,c,java,vscode,pytorch,anaconda,github,pycharm,idea,mysql,spring,js,nginx&theme=light" />
+  </a>
+</p>
+<!--
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white&style=flat" alt="Java Badge" height="120px" width="200px">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat" alt="Java Badge" height="120px" width="160px">
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="550px" width="128px" style="vertical-align:top; margin:6px 4px"  alt=""/>
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="150px" width="160px" style="vertical-align:top; margin:6px 4px"  alt=""/> 
 </p>
+-->
 
 
+
+## Activities
 
 
 
@@ -29,3 +38,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklovely)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github.com/fklovely/fklovely/blob/main/metrics.classic.svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fklovely&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
